@@ -1,6 +1,8 @@
 # Go Neural Net Sandbox
 
-This repo is currently a sandbox for personal experimentation in Go neural net training and Go AI. I've only put a little work into making this repo usable by others, since this is foremost a personal sandbox, but if you're interested, see below for how to get started.
+**See here for a fully-working Alpha-Zero-like self-training loop that is a major continuation of the research and experimentation in this repo: [https://github.com/lightvector/KataGo](https://github.com/lightvector/KataGo).**
+
+This repo was a sandbox for personal experimentation in Go neural net training and Go AI. Further work and research has since moved to a new repo [KataGo](https://github.com/lightvector/KataGo), and this repo has been left here primarily as a showcase of earlier experiments and results. The code should works though (at least with older versions of Tensorflow), so if you're interested in experimenting with neural nets and supervised learning on human Go games, see below for how to get started.
 
 See LICENSE for software license. License aside, informally, if do you successfully use any of the code or any wacky ideas about neural net structure explored in this repo in your own neural nets or to run any of your own experiments, I would to love hear about it and/or might also appreciate a casual acknowledgement where appropriate. Yay.
 
